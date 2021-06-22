@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_L6PgsG-oEeuy_fqh3OXTiA" label="LEAP" description="" language="java" technicalLabel="LEAP" local="true" author="_hBHpQG-nEeuy_fqh3OXTiA" productVersion="Talend Open Studio for Big Data-7.3.1.20200219_1130" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_90UPwHATEeuhnO58VacFvg" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_90UPwXATEeuhnO58VacFvg" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_90UPwnATEeuhnO58VacFvg" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_90UPw3ATEeuhnO58VacFvg" name="DI|tHashOutput" family="Technical"/>
+    <migrationTask xmi:id="_L6bG4G-oEeuy_fqh3OXTiA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_hBHpQG-nEeuy_fqh3OXTiA" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
